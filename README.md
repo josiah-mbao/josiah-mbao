@@ -12,3 +12,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+**Connect with me:**
+
+[<img width="22px" src="./website.png" />][website]
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josiah-mbao&hide_title=true&theme=onedark)](https://github.com/josiah-mbao)
+
+[website]: https://google.com
