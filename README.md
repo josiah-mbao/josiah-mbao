@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 [<img width="22px" src="./website.png" />][website]
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josiah-mbao&hide_title=true&theme=onedark)](https://github.com/josiah-mbao)
+
 
 [website]: https://google.com
