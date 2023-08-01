@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-**josiah-mbao/josiah-mbao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my Polling Django App
 - 🌱 I’m currently learning C#
@@ -20,4 +17,4 @@ Here are some ideas to get you started:
 
 
 
-[website]: https://google.com
+[website]: [https://google.com](https://youtu.be/dQw4w9WgXcQ)https://youtu.be/dQw4w9WgXcQ
