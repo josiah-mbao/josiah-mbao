@@ -16,5 +16,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josiah-mbao&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josiah-mbao&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: [https://google.com](https://youtu.be/dQw4w9WgXcQ)https://youtu.be/dQw4w9WgXcQ
