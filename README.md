@@ -15,6 +15,6 @@
 [<img width="22px" src="./website.png" />][website]
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apijosiah-mbao=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apijosiah-mbaoanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: [https://google.com](https://youtu.be/dQw4w9WgXcQ)https://youtu.be/dQw4w9WgXcQ
