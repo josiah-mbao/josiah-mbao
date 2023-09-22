@@ -2,12 +2,10 @@
 
 
 - 🔭 I’m currently working on my Polling Django App
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on Python projects
-- 🤔 I’m looking for help with 
-- 💬 Ask me about git
+- 💬 Ask me about Django
 - 📫 How to reach me: josiahmbaomc@gmail.com
-- 😄 Pronouns: He/him
 - ⚡ Fun fact: I can dunk a basketball!
 
 **Connect with me:**
