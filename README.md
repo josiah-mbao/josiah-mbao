@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on my Polling Django App
+- 🔭 I’m currently working on my RangeBros e-commerce website.
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on Python projects
 - 💬 Ask me about Django
