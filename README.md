@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on an AI Digit Recognition System.
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Flask, the python web framework.
 - 👯 I’m looking to collaborate on Python projects
 - 💬 Ask me about Django
 - 📫 How to reach me: josiahmbaomc@gmail.com
