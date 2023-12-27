@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on an AI Digit Recognition System.
-- 🌱 I’m currently learning Flask, the python web framework.
+- 🔭 I’m currently working on a Python game.
+- 🌱 I’m currently learning Flask and Pygame.
 - 👯 I’m looking to collaborate on Python projects
-- 💬 Ask me about Django
+- 💬 Ask me about Python
 - 📫 How to reach me: josiahmbaomc@gmail.com
 - ⚡ Fun fact: I can dunk a basketball!
 
