@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a Python game.
-- 🌱 I’m currently learning Flask and Pygame.
+- 🔭 I’m currently working on a Flask app.
+- 🌱 I’m currently learning about APIs.
 - 👯 I’m looking to collaborate on Python projects
 - 💬 Ask me about Python
 - 📫 How to reach me: josiahmbaomc@gmail.com
