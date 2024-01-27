@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on a Flask app.
-- 🌱 I’m currently learning about APIs.
+- 🌱 I’m currently learning about AWS Cloud technologies.
 - 💬 Ask me about Python
 - 📫 How to reach me: josiahmbaomc@gmail.com
 - ⚡ Fun fact: I can dunk a basketball!
