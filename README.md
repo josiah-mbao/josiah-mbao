@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a particle simulator using Pygame.
+- 🔭 I’m currently working on my portfolio website.
 - 🌱 I’m currently learning about AWS Cloud technologies.
 - 💬 Ask me about Python
 - 📫 How to reach me: josiahmbaomc@gmail.com
