@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on my portfolio website.
-- 🌱 I’m currently learning about AWS Cloud technologies.
+- 🌱 I’m currently preparing for the AWS Cloud Practitioner exam.
 - 💬 Ask me about Python
 - 📫 How to reach me: josiahmbaomc@gmail.com
 - ⚡ Fun fact: I can dunk a basketball!
