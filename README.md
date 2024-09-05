@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on my portfolio website.
-- 🌱 I’m currently preparing for the AWS Cloud Practitioner exam.
+- 🔭 I’m currently working on my building an Azure photo storage solution.
+- 🌱 I’m currently preparing for the AZ900 exam.
 - 💬 Ask me about Python
 - 📫 How to reach me: josiahmbaomc@gmail.com
 - ⚡ Fun fact: I can dunk a basketball!
