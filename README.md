@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on my building an Azure photo storage solution.
-- 🌱 I’m currently preparing for the AZ900 exam.
+- 🌱 I’m currently preparing for the Azure AI Engineer Associate exam.
 - 💬 Ask me about Python
 - 📫 How to reach me: josiahmbaomc@gmail.com
 - ⚡ Fun fact: I can dunk a basketball!
