@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on my building an Azure photo storage solution.
-- 🌱 I’m currently preparing for the Azure AI Engineer Associate exam.
+- 🔭 I’m currently working on my Go web server.
+- 🌱 I’m currently learning about Kubernetes.
 - 💬 Ask me about Python
 - 📫 How to reach me: josiahmbaomc@gmail.com
 - ⚡ Fun fact: I can dunk a basketball!
