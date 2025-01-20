@@ -12,6 +12,6 @@
 [<img width="22px" src="./website.png" />][website]
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josiah-mbao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josiah-mbao&layout=compact)](https://github.com/anuraghazra/github-readme-stats&langs_count=8)
 
 [website]: [https://google.com](https://youtu.be/dQw4w9WgXcQ)https://youtu.be/dQw4w9WgXcQ
