@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Ona Vision, my real-time CCTV security solution.
+- 🔭 I’m currently working on Ona Vision, my real-time security solution.
 - 🌱 I’m currently learning about Kubernetes.
 - 💬 Ask me about Python
 - 📫 How to reach me: josiahmbaomc@gmail.com
