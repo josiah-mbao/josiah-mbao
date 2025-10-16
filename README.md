@@ -1,57 +1,96 @@
-# 🚀 Josiah Mbao | MLOps & Systems Engineer ☁️
+# 🚀 Josiah Mbao | MLOps & Systems Engineer ☁️  
 
-Building **scalable, production-ready AI & Cloud systems** focused on impactful solutions for Africa. I specialize in **MLOps, DevOps, and high-performance systems programming**, using tools like Python, Rust, and Go to deliver robust, end-to-end solutions.
+> “Technology that is sufficiently advanced is indistinguishable from magic.”  
+
+Hi there 👋 I'm **Josiah Mbao**, a 4th-year Software Engineer passionate about **building intelligent, scalable systems** at the intersection of **AI, Cloud, and Infrastructure**.  
+I focus on **MLOps**, **DevOps**, and **Systems Engineering**, crafting end-to-end solutions that are **resilient, efficient, and impactful** — particularly for **African innovation ecosystems**.  
 
 ---
 
-## 🛠️ Core Technology Stack
+## 🧠 What I Do  
+
+- **🤖 MLOps Engineering:** Designing and automating AI model lifecycles on Kubernetes.  
+- **⚙️ Systems Programming:** Building high-performance services with Rust and Go.  
+- **☁️ Cloud Infrastructure:** Deploying distributed applications on GCP & Azure.  
+- **🔍 Observability & Reliability:** Instrumenting systems with Prometheus, Grafana & CI/CD pipelines.  
+
+---
+
+## 🛠️ Core Technology Stack  
 
 ### **Languages & Frameworks**
-* **🐍 Python:** (FastAPI, Django, Scientific Stack)
-* **🦀 Rust:** (Bevy Engine, Tokio for Concurrency)
-* **🐹 Go:** (Gorilla/Mux, Networking)
-* **📊 Data:** SQL (PostgreSQL), Observability (Prometheus & Grafana)
+- 🐍 **Python:** FastAPI · Django · NumPy · Pandas  
+- 🦀 **Rust:** Bevy Engine · Tokio · Concurrency & Systems Programming  
+- 🐹 **Go:** Networking · Gorilla/Mux · High-performance Services  
+- 📊 **Data & Observability:** PostgreSQL · Prometheus · Grafana  
 
 ### **DevOps & Cloud**
-* **☁️ Cloud Platforms:** Google Cloud Platform (GCP), Microsoft Azure
-* **🐳 Containerization:** Docker, Kubernetes (K8s, Minikube)
-* **🔄 CI/CD:** GitLab CI/CD, GitHub Actions
-* **🐧 Systems:** Linux, Bash Scripting
+- ☁️ **Cloud:** Google Cloud Platform (GCP) · Microsoft Azure  
+- 🐳 **Containerization:** Docker · Kubernetes (K8s · Minikube)  
+- 🔄 **CI/CD:** GitHub Actions · GitLab CI/CD  
+- 🐧 **Systems:** Linux · Bash · Scripting & Automation  
 
 ---
 
-## 🚀 Featured Projects (End-to-End Solutions)
+## 🚀 Featured Projects  
 
 ### 👁️ [Ona Vision (MLOps)](https://github.com/josiah-mbao/Ona-Vision)
-**Role:** MLOps Engineer
-* An **AI-powered real-time security system** using YOLOv8.
-* Features automated deployment on **Kubernetes** with full **Prometheus & Grafana** observability.
-* *Tech:* Python, YOLOv8, Docker, Kubernetes, Prometheus, FastAPI.
-
-### 📄 [Docu-Vision (Cloud AI)](https://github.com/josiah-mbao/Docu-Vision)
-**Role:** Cloud AI Developer
-* An intelligent tool that extracts and transforms documents into structured insights.
-* Integrates **Google Cloud's Document AI** with a high-performance **FastAPI** backend.
-* *Tech:* Python, GCP, Document AI, FastAPI, Docker.
-
-### 🔄 [Go Reverse Proxy (DevOps)](https://github.com/josiah-mbao/Reverse-proxy-server)
-**Role:** Systems/DevOps Engineer
-* A **high-performance reverse proxy and load balancer** written from scratch in **Go**.
-* Designed for concurrent traffic and containerized for **Kubernetes** deployment.
-* *Tech:* Go, Networking, Docker, Kubernetes, Minikube.
-
-### 🕹️ [Juice: Zero Bugs Given (Systems)](https://github.com/josiah-mbao/Juice-Zero-Bugs-Given)
-**Role:** Systems Programmer / Game Developer
-* A 2D fighting game built in **Rust** using the **Bevy Engine**.
-* The project explores low-level programming concepts by having players battle bosses inspired by classic programming bugs (e.g., null pointers).
-* *Tech:* Rust, Bevy Engine, Game Development.
+**Role:** MLOps Engineer  
+A **real-time object detection and monitoring system** built with YOLOv8.  
+- Automated deployment pipelines using **Docker & Kubernetes**.  
+- Full **observability stack** (Prometheus + Grafana).  
+- *Tech:* Python · YOLOv8 · FastAPI · Kubernetes · Docker · Prometheus  
 
 ---
 
-## 📫 Let's Connect
+### 📄 [Docu-Vision (Cloud AI)](https://github.com/josiah-mbao/Docu-Vision)
+**Role:** Cloud AI Developer  
+Transforms unstructured documents into meaningful insights using **Google Cloud’s Document AI**.  
+- FastAPI backend with containerized microservices.  
+- *Tech:* Python · GCP · Document AI · Docker · FastAPI  
+
+---
+
+### ✋ [Signo (Computer Vision)](https://github.com/josiah-mbao/signo)
+**Role:** AI Developer  
+A **real-time gesture recognition app** using Streamlit, OpenCV, and MediaPipe.  
+- Detects hand gestures for interactive control.  
+- *Tech:* Python · Streamlit · OpenCV · MediaPipe  
+
+---
+
+### 💸 [FraudFlow (MLOps)](https://github.com/josiah-mbao/FraudFlow)
+**Role:** MLOps Engineer  
+A **credit card fraud detection system** demonstrating a complete MLOps lifecycle — from model training to monitoring.  
+- Implements continuous training and inference pipelines.  
+- *Tech:* Python · FastAPI · Docker · MLflow · Kubernetes  
+
+---
+
+### 📚 [Cloud Tutorials (Open Source School)](https://github.com/josiah-mbao/cloud-tutorials)
+**Role:** Technical Writer & Maintainer  
+An open-source learning hub for foundational Cloud, Linux, and DevOps concepts.  
+- Built with Astro & MDX for interactive documentation.  
+- *Tech:* Astro · MDX · Markdown  
+
+---
+
+## 📊 Contribution Highlights  
+
+🔥 **446+ contributions** in the past year  
+🧩 Active in: MLOps · DevOps · Systems Programming  
+💬 Contributor to: **@devops-usiu** community  
+
+---
+
+## 📫 Let's Connect  
 
 | | |
 | :--- | :--- |
-| 🌐 **Portfolio** | [your-portfolio-link.com](https://your-portfolio-link.com) |
+| 🌐 **Portfolio** | [josiahmbao.dev](https://josiahmbao.dev) |
 | 🔗 **LinkedIn** | [in/josiah-mbao](https://www.linkedin.com/in/josiah-mbao/) |
 | ✉️ **Email** | [josiahmbaomc@gmail.com](mailto:josiahmbaomc@gmail.com) |
+
+---
+
+⭐ _"Building systems that empower innovation, one deploy at a time."_  
