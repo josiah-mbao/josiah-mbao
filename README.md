@@ -33,6 +33,7 @@ I focus on **MLOps**, **DevOps**, and **Systems Engineering**, crafting end-to-e
 ---
 
 ## 🚀 Featured Projects  
+💡 From computer vision (Signo, Ona Vision) to cloud automation (FraudFlow, Cloud Tutorials), my work explores how intelligent systems can scale reliably on cloud infrastructure.
 
 ### 👁️ [Ona Vision (MLOps)](https://github.com/josiah-mbao/Ona-Vision)
 **Role:** MLOps Engineer  
