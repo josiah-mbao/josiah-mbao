@@ -42,7 +42,7 @@ An open-source learning hub for foundational Cloud, Linux, and DevOps concepts.
 
 ## 📊 Contribution Highlights  
 
-🔥 **446+ contributions** in the past year  
+🔥 **500+ contributions** in the past year  
 🧩 Active in: MLOps · DevOps · Systems Programming  
 💬 Contributor to: **@devops-usiu** community  
 
