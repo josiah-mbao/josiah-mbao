@@ -1,4 +1,4 @@
-# 🚀 Josiah Mbao | MLOps & Systems Engineer ☁️  
+# 🚀 Josiah Mbao | Junior MLOps Engineer ☁️  
 
 > “Technology that is sufficiently advanced is indistinguishable from magic.”  
 
