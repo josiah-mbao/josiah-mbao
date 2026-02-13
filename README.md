@@ -1,6 +1,6 @@
 # 🚀 Josiah Mbao | Final-Year Software Engineering Student | AI & Systems ☁️  
 
-Hi there 👋 I'm **Josiah Mbao**, a 4th-year Software Engineer passionate about **building intelligent, scalable systems** at the intersection of **AI, Cloud, and Infrastructure**.  
+Hi there 👋 I'm a 4th-year Software Engineer passionate about **building intelligent, scalable systems** at the intersection of **AI, Cloud, and Infrastructure**.  
 I focus on **MLOps**, **DevOps**, and **Systems Engineering**, crafting end-to-end solutions that are **resilient, efficient, and impactful** — particularly for **African innovation ecosystems**.  
 
 ---
@@ -31,11 +31,6 @@ I focus on **MLOps**, **DevOps**, and **Systems Engineering**, crafting end-to-e
 
 ## 📫 Let's Connect  
 
-| | |
-| :--- | :--- |
-| 🔗 **LinkedIn** | [in/josiah-mbao](https://www.linkedin.com/in/josiah-mbao/) |
 | ✉️ **Email** | [josiahmbaomc@gmail.com](mailto:josiahmbaomc@gmail.com) |
 
 ---
-
-⭐ _"Building systems that empower innovation, one deploy at a time."_  
