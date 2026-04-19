@@ -1,28 +1,29 @@
-# 🚀 Josiah Mbao | Final-Year Software Engineering Student | AI & Systems ☁️  
+# 🚀 Josiah Mbao | Software Engineering Student (Final Year) | Cloud, Systems and AI Foundations 
 
-Hi there 👋 I'm a 4th-year Software Engineer passionate about **building intelligent, scalable systems** at the intersection of **AI, Cloud, and Infrastructure**.  
-I focus on **MLOps**, **DevOps**, and **Systems Engineering**, crafting end-to-end solutions that are **resilient, efficient, and impactful** — particularly for **African innovation ecosystems**.  
+Hi 👋 I’m a final-year Software Engineering student focused on building strong foundations in **cloud infrastructure, systems programming, and applied AI engineering**.
 
----
-
-## 🧠 What I Do  
-
-- **🤖 MLOps Engineering:** Designing and automating AI model lifecycles on Kubernetes.  
-- **⚙️ Systems Programming:** Building high-performance services with Rust and Go.  
-- **☁️ Cloud Infrastructure:** Deploying distributed applications on GCP & Azure.  
-- **🔍 Observability & Reliability:** Instrumenting systems with Prometheus, Grafana & CI/CD pipelines.  
+I enjoy working across the stack — from backend systems and automation scripts to cloud deployments — with a strong interest in **MLOps, DevOps, and distributed systems engineering**.
 
 ---
 
-## 🛠️ Core Technology Stack  
+## 🧠 Focus Areas
 
-### **Languages & Frameworks**
-- 🐍 **Python:** FastAPI · Django · NumPy · Pandas  
-- 🦀 **Rust:** Bevy Engine · Tokio · Concurrency & Systems Programming  
-- 🐹 **Go:** Networking · Gorilla/Mux · High-performance Services  
-- 📊 **Data & Observability:** PostgreSQL · Prometheus · Grafana  
+- ** Cloud Engineering (Azure-first, exploring AWS):** Building and deploying applications on cloud platforms, with an emphasis on automation and cost efficiency. 
+- **⚙️ Systems and Backend Engineering:** Developing backend services and exploring systems-level programming using Python, Rust, and C++. 
+- **🔁 DevOps & Automation:** CI/CD pipelines, scripting, and workflow automation for development and infrastructure tasks. 
+- **🤖 MLOps (Learning Phase):** Exploring how machine learning systems are deployed, monitored, and maintained in production environments.  
 
-### **DevOps & Cloud**
+---
+
+## 🛠️ Tools & Technologies  
+
+### **Languages**
+- 🐍 **Python:** - automation, backend APIs, data processing
+- 🦀 **Rust:** - systems programming exploration 
+- 🐹 **C++:** - learning low-level performance concepts  
+- ⚡ **Bash:** -  — system automation and tooling
+
+### **Cloud & DevOps**
 - ☁️ **Cloud:** Google Cloud Platform (GCP) · Microsoft Azure  
 - 🐳 **Containerization:** Docker · Kubernetes (K8s · Minikube)  
 - 🔄 **CI/CD:** GitHub Actions · GitLab CI/CD  
