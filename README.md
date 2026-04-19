@@ -8,7 +8,7 @@ I enjoy working across the stack — from backend systems and automation scripts
 
 ## 🧠 Focus Areas
 
-- ** Cloud Engineering (Azure-first, exploring AWS):** Building and deploying applications on cloud platforms, with an emphasis on automation and cost efficiency. 
+- **☁️ Cloud Engineering (Azure-first, exploring AWS):** Building and deploying applications on cloud platforms, with an emphasis on automation and cost efficiency. 
 - **⚙️ Systems and Backend Engineering:** Developing backend services and exploring systems-level programming using Python, Rust, and C++. 
 - **🔁 DevOps & Automation:** CI/CD pipelines, scripting, and workflow automation for development and infrastructure tasks. 
 - **🤖 MLOps (Learning Phase):** Exploring how machine learning systems are deployed, monitored, and maintained in production environments.  
